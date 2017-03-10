@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ElevatorConf>
+
+<!--total floor of building, no higher than 32.-->
+<building_floors>20</building_floors>
+
+<!--init floor of elevator.-->
+<init_floor>1</init_floor>
+
+<!--elevator open and close door time.-->
+<open_close_time>1</open_close_time>
+
+<!--passenger get in or out costs time.(seconds)-->
+<passenger_time>6</passenger_time>
+
+</ElevatorConf>
